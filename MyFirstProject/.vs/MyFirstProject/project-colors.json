@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc2d2e42-5deb-45b3-98d9-045883a2545d": {
+      "ProjectGuid": "cc2d2e42-5deb-45b3-98d9-045883a2545d",
+      "DisplayName": "HelloWorld",
+      "ColorIndex": 0
+    },
+    "b5081210-1333-47fb-9d90-3d2161960199": {
+      "ProjectGuid": "b5081210-1333-47fb-9d90-3d2161960199",
+      "DisplayName": "HelloWorldInNet5",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
